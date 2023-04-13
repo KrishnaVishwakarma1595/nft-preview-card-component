@@ -20,8 +20,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/KrishnaVishwakarma1595/order-summary-component)
-- Live Site URL: [Live URL](https://krishnavishwakarma1595.github.io/order-summary-component/)
+- Solution URL: [Solution URL](https://github.com/KrishnaVishwakarma1595/nft-preview-card-component)
+- Live Site URL: [Live URL](https://krishnavishwakarma1595.github.io/nft-preview-card-component/)
 
 ## My process
 
